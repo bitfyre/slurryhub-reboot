@@ -1,4 +1,4 @@
-slurryhub-reboot
-================
+SlurryHub
+=========
 
 Reboot of SlurryHub project
